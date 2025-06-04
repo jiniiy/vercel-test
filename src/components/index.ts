@@ -1,3 +1,4 @@
 import LoginButton from "./LoginButton";
 import Header from "./Header";
-export { LoginButton, Header };
+import PlanCard from "./PlanCard";
+export { LoginButton, Header, PlanCard };
